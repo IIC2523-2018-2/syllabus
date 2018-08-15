@@ -25,7 +25,8 @@
 
 | Nombre                | Github        | Email         |
 |:--------------------- |:--------------|:--------------|
-
+| Felipe Rojos          |               | farojos@uc.cl |
+| David Ruz             |               | daruz@uc.cl   |
 
 
 ## Objetivos
