@@ -130,6 +130,7 @@ Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categoría
 * [Código](../../labels/C%C3%B3digo): sobre métodos, clases, sintaxis, estándares, etc.
 * [Tareas](../../labels/Tareas): sobre el enunciado o situación relacionada a alguna tarea.
 * [Interrogación](../../labels/Interrogaci%C3%B3n): sobre fechas, contenido, recorreción de interrogaciones, etc.
+* [Presentación](../../labels/Presentaci%C3%B3n): sobre las presentaciones, etc.
 * [Materia](../../labels/Materia): sobre conceptos y/o temas vistos en clases o fuera de éstas.
 * [Duplicada](../../labels/Duplicada): pregunta repetida, se hará referencia a la pregunta original.
 * [Git](../../labels/Git): Preguntas relacionadas con `git`
