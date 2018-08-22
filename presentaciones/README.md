@@ -95,6 +95,7 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | Fecha | Orden | Alumno 1               | Alumno 2          |  Tema          |
 | :---- | :---- |:---------------------- |:------------------| :--------------|
 | 19/11 | 1     | Matías Andrade         | Rodrigo Contreras | Blockchain / Bitcoin |
-| 19/11 | 2     | Hernan Valdivieso      |                   | TITAN: Distributed Graph Database |
-| 19/11 | 3     | Patricio Cerda         | Felipe Gómez      | Deep Learning y GPU |
+| 19/11 | 2     | Nicolás Freudenberg    |                   | Ethereum |
+| 19/11 | 3     | Hernan Valdivieso      |                   | TITAN: Distributed Graph Database |
+| 21/11 | 1     | Patricio Cerda         | Felipe Gómez      | Deep Learning y GPU |
 | 21/11 | 1     | Bruno Marín            |                   | A3C reinforcement learning |
