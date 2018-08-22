@@ -88,7 +88,7 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | 17/10 | 2     | Guillermo Figueroa     |                  | Serverless y funciones Lambda |
 | 17/10 | 3     | Alejandro Quiñones     |                  | Programación con OpenMP |
 | 22/10 | 1     | Ignacio Tobar          |                  | Programación usando GPU |
-| 22/10 | 1     | Lesly Reyes            |                  | Hadoop |
+| 22/10 | 2     | Lesly Reyes            |                  | Hadoop |
 
 ### Tercer ciclo
 
