@@ -63,6 +63,38 @@ La evaluación de las presentaciones será:
 
  Como parte de la evaluación, tendrás que entregar material relacionado con tu tema (ya sea la presentación u otro) para que tus compañeros puedan consultarla en cualquier momento.
 
- ## Preguntas
+## Preguntas
 
- Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: Recuerda colocarle la etiqueta correspondiente!
+Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: Recuerda colocarle la etiqueta correspondiente!
+
+## Distribución de presentaciones
+
+### Primer ciclo
+
+| Fecha | Orden  | Alumno 1               | Alumno 2         |  Tema          |
+|:------|:-------|:---------------------- |:-----------------| :--------------|
+| 03/09 | 1      | Maximiliano Fuenzalida |                  | VPN            |
+| 03/09 | 2      | Christian Meléndez     | Antonia Mendoza  | TOR            |
+| 03/09 | 3      | Mauricio Ortiz         |                  | Onion Routing  |
+| 05/09 | 1      | Martín de la Fuente    |                  | Botnets - Cracking Distruibido y DoS Distribuido |
+| 05/09 | 2      | Nicolás Teare          | Sebastián Guerra | Docker Swarm vs Kubernetes |
+| 05/09 | 3      | Anne Wold              | Mari Tuhus       | HFS (Hadoop File System) |
+
+### Segundo ciclo
+
+| Fecha | Orden | Alumno 1               | Alumno 2         |  Tema          |
+| :---- | :---- |:---------------------- |:-----------------| :--------------|
+| 17/10 | 1     | Alfonso Valdés         |                  | Multithread Synchronization |
+| 17/10 | 2     | Guillermo Figueroa     |                  | Serverless y funciones Lambda |
+| 17/10 | 3     | Alejandro Quiñones     |                  | Programación con OpenMP |
+| 22/10 | 1     | Ignacio Tobar          |                  | Programación usando GPU |
+| 22/10 | 1     | Lesly Reyes            |                  | Hadoop |
+
+### Tercer ciclo
+
+| Fecha | Orden | Alumno 1               | Alumno 2          |  Tema          |
+| :---- | :---- |:---------------------- |:------------------| :--------------|
+| 19/11 | 1     | Matías Andrade         | Rodrigo Contreras | Blockchain / Bitcoin |
+| 19/11 | 2     | Hernan Valdivieso      |                   | TITAN: Distributed Graph Database |
+| 19/11 | 3     | Patricio Cerda         | Felipe Gómez      | Deep Learning y GPU |
+| 21/11 | 1     | Bruno Marín            |                   | A3C reinforcement learning |
