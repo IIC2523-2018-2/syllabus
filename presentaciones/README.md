@@ -98,4 +98,4 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | 19/11 | 2     | Nicolás Freudenberg    |                   | Ethereum |
 | 19/11 | 3     | Hernan Valdivieso      |                   | TITAN: Distributed Graph Database |
 | 21/11 | 1     | Patricio Cerda         | Felipe Gómez      | Deep Learning y GPU |
-| 21/11 | 1     | Bruno Marín            |                   | A3C reinforcement learning |
+| 21/11 | 2     | Bruno Marín            |                   | A3C reinforcement learning |
