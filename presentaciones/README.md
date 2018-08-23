@@ -79,6 +79,7 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | 05/09 | 1      | Martín de la Fuente    |                  | Botnets - Cracking Distruibido y DoS Distribuido |
 | 05/09 | 2      | Nicolás Teare          | Sebastián Guerra | Docker Swarm vs Kubernetes |
 | 05/09 | 3      | Anne Wold              | Mari Tuhus       | HFS (Hadoop File System) |
+| 05/09 | 4      | Gastón Gaete           |                  | GFS (Google File System) |
 
 ### Segundo ciclo
 
