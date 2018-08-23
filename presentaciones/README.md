@@ -84,11 +84,13 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 
 | Fecha | Orden | Alumno 1               | Alumno 2         |  Tema          |
 | :---- | :---- |:---------------------- |:-----------------| :--------------|
-| 17/10 | 1     | Alfonso Valdés         |                  | Multithread Synchronization |
-| 17/10 | 2     | Guillermo Figueroa     |                  | Serverless y funciones Lambda |
-| 17/10 | 3     | Alejandro Quiñones     |                  | Programación con OpenMP |
+| 17/10 | 1     | Paula Sanzana          | Samuel Goldfarb  | Clock Synchronization |
+| 17/10 | 2     | Alfonso Valdés         |                  | Multithread Synchronization |
+| 17/10 | 3     | Guillermo Figueroa     |                  | Serverless y funciones Lambda |
+| 17/10 | 4     | Alejandro Quiñones     |                  | Programación con OpenMP |
 | 22/10 | 1     | Ignacio Tobar          |                  | Programación usando GPU |
 | 22/10 | 2     | Lesly Reyes            |                  | Hadoop |
+| 22/10 | 3     | Benjamín Benavides     |                  | Byzantine Generals |
 
 ### Tercer ciclo
 
@@ -97,5 +99,6 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | 19/11 | 1     | Matías Andrade         | Rodrigo Contreras | Blockchain / Bitcoin |
 | 19/11 | 2     | Nicolás Freudenberg    |                   | Ethereum |
 | 19/11 | 3     | Hernan Valdivieso      |                   | TITAN: Distributed Graph Database |
-| 21/11 | 1     | Patricio Cerda         | Felipe Gómez      | Deep Learning y GPU |
-| 21/11 | 2     | Bruno Marín            |                   | A3C reinforcement learning |
+| 21/11 | 1     | Jaime Yañez            |                   | Eventual Consistency |
+| 21/11 | 2     | Patricio Cerda         | Felipe Gómez      | Deep Learning y GPU |
+| 21/11 | 3     | Bruno Marín            |                   | A3C reinforcement learning |
