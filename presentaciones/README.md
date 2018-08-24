@@ -101,6 +101,6 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | 19/11 | 2     | Nicolás Freudenberg    |                   | Ethereum |
 | 19/11 | 3     | Hernan Valdivieso      |                   | TITAN: Distributed Graph Database |
 | 21/11 | 1     | Jaime Yañez            |                   | Eventual Consistency |
-| 21/11 | 2     | Nicolás Leyton         | Sebastián Von Bergen | Eventual Consistency |
+| 21/11 | 2     | Nicolás Leyton         | Sebastián Von Bergen | Kademlia |
 | 21/11 | 3     | Patricio Cerda         | Felipe Gómez      | Deep Learning y GPU |
 | 21/11 | 4     | Bruno Marín            |                   | A3C reinforcement learning |
