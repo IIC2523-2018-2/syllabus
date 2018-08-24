@@ -76,7 +76,7 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | 03/09 | 1      | Maximiliano Fuenzalida |                  | VPN            |
 | 03/09 | 2      | Christian Meléndez     | Antonia Mendoza  | TOR            |
 | 03/09 | 3      | Mauricio Ortiz         |                  | Onion Routing  |
-| 05/09 | 1      | Martín de la Fuente    |                  | Botnets - Cracking Distruibido y DoS Distribuido |
+| 05/09 | 1      | Martín de la Fuente    | Juan Enrique Castro | Botnets - Cracking Distruibido y DoS Distribuido |
 | 05/09 | 2      | Nicolás Teare          | Sebastián Guerra | Docker Swarm vs Kubernetes |
 | 05/09 | 3      | Anne Wold              | Mari Tuhus       | HFS (Hadoop File System) |
 | 05/09 | 4      | Gastón Gaete           |                  | GFS (Google File System) |
@@ -88,7 +88,7 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | 17/10 | 1     | Paula Sanzana          | Samuel Goldfarb  | Clock Synchronization |
 | 17/10 | 2     | Alfonso Valdés         |                  | Multithread Synchronization |
 | 17/10 | 3     | Guillermo Figueroa     |                  | Serverless y funciones Lambda |
-| 17/10 | 4     | Alejandro Quiñones     |                  | Programación con OpenMP |
+| 17/10 | 4     | Alejandro Quiñones     | Iván Wolf        | Programación con OpenMP |
 | 22/10 | 1     | Ignacio Tobar          |                  | Programación usando GPU |
 | 22/10 | 2     | Lesly Reyes            |                  | Hadoop |
 | 22/10 | 3     | Benjamín Benavides     |                  | Byzantine Generals |
@@ -101,5 +101,6 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | 19/11 | 2     | Nicolás Freudenberg    |                   | Ethereum |
 | 19/11 | 3     | Hernan Valdivieso      |                   | TITAN: Distributed Graph Database |
 | 21/11 | 1     | Jaime Yañez            |                   | Eventual Consistency |
-| 21/11 | 2     | Patricio Cerda         | Felipe Gómez      | Deep Learning y GPU |
-| 21/11 | 3     | Bruno Marín            |                   | A3C reinforcement learning |
+| 21/11 | 2     | Nicolás Leyton         | Sebastián Von Bergen | Eventual Consistency |
+| 21/11 | 3     | Patricio Cerda         | Felipe Gómez      | Deep Learning y GPU |
+| 21/11 | 4     | Bruno Marín            |                   | A3C reinforcement learning |
