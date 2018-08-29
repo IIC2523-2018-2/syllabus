@@ -92,6 +92,7 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | 22/10 | 1     | Ignacio Tobar          |                  | Programación usando GPU |
 | 22/10 | 2     | Lesly Reyes            |                  | Hadoop |
 | 22/10 | 3     | Benjamín Benavides     |                  | Byzantine Generals |
+| 22/10 | 4     | Henry Blair            |                  | Grid/Volunteer Computing |
 
 ### Tercer ciclo
 
