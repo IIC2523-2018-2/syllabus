@@ -2,6 +2,8 @@
 
 Fecha de entrega: miércoles 26 de septiembre, 23:59 hrs.
 
+Crea una carpeta llamada "tarea1" en tu repositorio y dentro de ella todos los archivos de tu solución. Incluye, además, un archivo que explique al ayudante cómo debe corregir tu tarea.
+
 ## Contexto
 
 Tu trabajas en una empresa que analiza distintas trazas de ADN y descubres que, para revisar las distintas muestras, es un proceso que se hace de forma manual: Una persona revisa un archivo de texto buscando anomalías en el ADN, lo cual toma mucho tiempo.
@@ -40,7 +42,7 @@ Deberás desarrollar un programa en `Python` que permita verificar los errores q
 
 1. Implementar una versión que realice esta tarea de forma secuencial
 2. Implementar una versión que utilice multiprocesamiento (a nivel de procesos y *threads*)
-3. Responder las preguntas que se detallan en la siguiente sección.
+3. Responder las preguntas que se detallan en la siguiente sección (Archivo markdown o PDF).
 
 Para las implementaciones debes considerar:
 
@@ -51,8 +53,6 @@ Para las implementaciones debes considerar:
 * Puedes suponer que el formato de 8 columnas y 8 letras cada una se cumple siempre.
 
 ## Preguntas a contestar
-
-A continuación las preguntas a responder:
 
 1. Con los archivos de prueba que están disponible para la tarea 1 ¿Cuál es el *speedup* que se logra con una versión con operaciones distribuidas para su implementación? Indique una pequeña descripción del computador en que realizó la prueba.
 2. ¿Existe un punto en que, al lanzar una cierta cantidad de *threads*/procesos, el análisis se vuelve ineficiente (más lento que el sequencial)? ¿Por qué?
