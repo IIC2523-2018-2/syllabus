@@ -6,7 +6,7 @@ Durante el semestre tendrán que realizar varias tareas, esto con el fin de que 
 
 Cada entrega tendrá una fecha de entrega especificada en su enunciado. Esta fecha no podrá ser extendida y no se aceptarán entregas atrasadas. No se recibirán entregas por otros medios distintos al repositorio entregado.
 
-* **[Tarea1 1](tarea1/README.md):** miércoles 26 de marzo, 23:59 hrs.
+* **[Tarea 1](tarea1/README.md):** miércoles 26 de marzo, 23:59 hrs.
 
 
 ## Indicaciones
