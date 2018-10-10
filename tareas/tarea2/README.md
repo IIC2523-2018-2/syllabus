@@ -12,14 +12,14 @@ Deberá implementar el problema presentado en la [Tarea 1](../tarea1/README.md) 
 
 ## Detalles de la tarea
 
-Deberás desarrollar un programa utilizando `MPI` que permita verificar los errores que existan en los distintos archivos. Para esto deberás:
+Deberás desarrollar un programa utilizando `MPI` que permita verificar los errores que existan en los distintos archivos. Para esto tienes que:
 
 1. Implementar la versión en lenguaje `C (MPI)`.
 2. Responder las preguntas que se detallan en la siguiente sección (Archivo markdown o PDF).
 
 Para tu programa debes considerar:
 
-* Permitir un parámetro con la ruta del archivo, debes indicar cuando no puede abrir un archivo.
+* Permitir un parámetro con la ruta del archivo, debes indicar cuando no puedes abrir un archivo.
 * Esperamos que sea un programa bien implementado, con un código que sea fácil de seguir y que idealmente esté comentado.
 * Los errores **NO** deben mostrarse de forma incremental. Si el archivo no presenta ninguno, debes indicarlo en consola.
 * Tu programa debe poder reaccionar ante distintas infraestructuras (problema de heterogeneidad). Recuerde que no puede lanzar una cantidad infinita de procesos en un sistema.
@@ -27,7 +27,7 @@ Para tu programa debes considerar:
 
 En cuanto a la implementación:
 
-* Tu programa deberá compilar utilizando `OpenMPI`. Indica claramente, en el archivo de descripción de tu tarea la versión y cómo se construye tu programa. Incluye un *makefile* si lo deseas.
+* Tu programa deberá compilar utilizando `OpenMPI`. Indica claramente, en el archivo de descripción de tu tarea, la versión y cómo se construye tu programa. Incluye un *makefile* si lo deseas.
 
 * Debes suponer que **tu programa puede correr en uno o más nodos**.
 
