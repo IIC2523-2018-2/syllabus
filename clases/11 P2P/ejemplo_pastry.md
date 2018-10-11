@@ -15,6 +15,7 @@ Sea L el *leaf set* del nodo A4D2 y está formado por:
 * A4CE
 * A4CF
 * A4D1
+* A4D2
 * A4D3
 * A4D5
 * A4D6
@@ -36,6 +37,7 @@ Sea L el *leaf set* del nodo C511 y está formado por:
 
 * C501
 * C502
+* C511
 * C536
 * C545 
 * C553
@@ -64,6 +66,7 @@ Sea L el *leaf set* del nodo BA31 y está formado por:
 * BA12
 * BA25
 * BA29 
+* BA31
 * BA35
 * BA38
 * BA41
