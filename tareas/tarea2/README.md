@@ -1,6 +1,6 @@
 # Tarea 2
 
-Fecha de entrega: viernes 3 de noviembre, 23:59 hrs.
+Fecha de entrega: sábado 3 de noviembre, 23:59 hrs.
 
 Crea una carpeta llamada "tarea2" en tu repositorio y dentro de ella todos los archivos de tu solución. Incluye, además, un archivo que explique al ayudante cómo debe corregir tu tarea.
 

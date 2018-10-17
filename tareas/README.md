@@ -8,7 +8,7 @@ Cada entrega tendrá una fecha de entrega especificada en su enunciado. Esta fec
 
 * **[Tarea 1](tarea1/README.md):** miércoles 26 de septiembre, 23:59 hrs.
 
-* **[Tarea 2](tarea2/README.md):** viernes 3 de noviembre, 23:59 hrs.
+* **[Tarea 2](tarea2/README.md):** sábado 3 de noviembre, 23:59 hrs.
 
 ## Indicaciones
 
