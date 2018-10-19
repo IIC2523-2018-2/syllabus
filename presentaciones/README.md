@@ -86,7 +86,7 @@ Si tienes alguna pregunta, puedes hacerla en [Issues](../../../issues) :smiley: 
 | Fecha | Orden | Alumno 1               | Alumno 2         |  Tema          |
 | :---- | :---- |:---------------------- |:-----------------| :--------------|
 | 17/10 | 1     | Paula Sanzana          | Samuel Goldfarb  | Clock Synchronization |
-| 17/10 | 2     | Alfonso Valdés         |                  | Multithread Synchronization |
+| 17/10 | 2     | Alfonso Valdés         | Arturo del Real  | Multithread Synchronization |
 | 17/10 | 3     | Guillermo Figueroa     |                  | Serverless y funciones Lambda |
 | 17/10 | 4     | Alejandro Quiñones     | Iván Wolf        | Programación con OpenMP |
 | 22/10 | 1     | Ignacio Tobar          |                  | Programación usando GPU |
