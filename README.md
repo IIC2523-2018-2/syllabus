@@ -70,14 +70,16 @@ Este curso enseña los modelos, técnicas, algoritmos para diseñar, implementar
 ## Metodología
 
 Dos clases expositivas semanales de 80 min. de duración. Se utilizará el horario de ayudantı́a para presentar tecnologı́as especı́ficas de programación de sistemas distribuidos de acuerdo a las necesidades.
+
 Las clases de ayudantı́a se avisarán previamente.
 
 ## Evaluación
 
-La evaluación del curso incluye 3 interrogaciones, 3 tareas, 1 presentación oral, y 1 examen.
-Las interrogaciones comprenderán los contenidos presentados en clases hasta la semana anterior a la interrogación
-correspondiente.
+La evaluación del curso incluye 2 interrogaciones, 3 tareas, 1 presentación oral, y 1 examen.
+Las interrogaciones comprenderán los contenidos presentados en clases hasta la semana anterior a la interrogación correspondiente.
+
 Las tareas serán individuales y su objetivo será que los alumnos se enfrenten a problemas relacionados a los sistemas distribuídos.
+
 Finalmente, todos deberán efectuar una presentación durante el semestre, podrá ser en parejas o de forma individual, y esta nota puede ser diferenciada en el caso de presentaciones con dos integrantes. El contenido de las presentaciones es parte de la materia del curso.
 
 * **Nota Ies (NIes): (I1 + I2 + Ex) / 3**
@@ -96,27 +98,19 @@ Finalmente, todos deberán efectuar una presentación durante el semestre, podr�
 Durante el semestre podrían haber evaluaciones y/o actividades, con o sin previo aviso, que aunque no serán consideradas directamente en la nota final, podrían significar bonificaciones en alguna de las evaluaciones listadas anteriormente.
 
 ## Bibliografía
-El curso está preparado de manera que el material de clases y las referencias que se hagan durante ellas sean
-suficiente para comprender los contenidos. Sin embargo, aquellos que desean profundizar más en los contenidos están
-invitados a hacerlo. Las principales fuentes que se han utilizado para preparar el material son:
+El curso está preparado de manera que el material de clases y las referencias que se hagan durante ellas sean suficiente para comprender los contenidos. Sin embargo, aquellos que desean profundizar más en los contenidos están invitados a hacerlo. Las principales fuentes que se han utilizado para preparar el material son:
 
-1. George Coulouris, Jean Dollimore, Tim Kindberg and Gordon Blair. Distributed Systems Concepts and Design,
-5th Edition. Addison Wesley, May 2011. ISBN 0-13-214301-1. http://www.cdk5.net/
+1. George Coulouris, Jean Dollimore, Tim Kindberg and Gordon Blair. Distributed Systems Concepts and Design, 5th Edition. Addison Wesley, May 2011. ISBN 0-13-214301-1. http://www.cdk5.net/
 
-2. Andrew S. Tanenbaum, Maarten Van Steen. Distributed Systems: Principles and Paradigms, 2nd Edition. Pren-
-tice Hall, October 2006. ISBN 978-0132392273. http://www.cs.vu.nl/ ̃steen/books/ds2/
+2. Andrew S. Tanenbaum, Maarten Van Steen. Distributed Systems: Principles and Paradigms, 2nd Edition. Prentice Hall, October 2006. ISBN 978-0132392273. http://www.cs.vu.nl/ ̃steen/books/ds2/
 
 ## Política de Integridad Académica
 
-Todo participante de este curso adscribe al Código de Honor de la Pontificia Universidad Católica de Chile, que
-puede ser consultado en esta dirección: http://www.uc.cl/codigodehonor
-“Como miembro de la comunidad de la Pontificia Universidad Católica de Chile me comprometo a respetar los
-principios y normativas que la rigen. Asimismo, prometo actuar con rectitud y honestidad en las relaciones con los
-demás integrantes de la comunidad y en la realización de todo trabajo, particularmente en aquellas actividades vin-
-culadas a la docencia, el aprendizaje y la creación, difusión y transferencia del conocimiento. Además, velaré por la
-integridad de las personas y cuidaré los bienes de la Universidad”.
-Cualquier falta percibida al Código de Honor será comunicada a las autoridades de la Escuela de Ingenierı́a de
-acuerdo al procedimiento regular y permitirá aplicar sanciones dentro del curso.
+Todo participante de este curso adscribe al Código de Honor de la Pontificia Universidad Católica de Chile, que puede ser consultado en esta dirección: http://www.uc.cl/codigodehonor
+
+“Como miembro de la comunidad de la Pontificia Universidad Católica de Chile me comprometo a respetar los principios y normativas que la rigen. Asimismo, prometo actuar con rectitud y honestidad en las relaciones con los demás integrantes de la comunidad y en la realización de todo trabajo, particularmente en aquellas actividades vinculadas a la docencia, el aprendizaje y la creación, difusión y transferencia del conocimiento. Además, velaré por la integridad de las personas y cuidaré los bienes de la Universidad”.
+
+Cualquier falta percibida al Código de Honor será comunicada a las autoridades de la Escuela de Ingenierı́a de acuerdo al procedimiento regular y permitirá aplicar sanciones dentro del curso.
 
 # Foro
 
