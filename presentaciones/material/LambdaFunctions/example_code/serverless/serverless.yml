@@ -1,0 +1,19 @@
+
+service: serverless
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+
+package:
+  include:
+    - ../index.js
+
+functions:
+  server:
+    handler: handler.server
+
+    events:
+      - http:
+          path: /
+          method: get
