@@ -10,6 +10,8 @@ Cada entrega tendrá una fecha de entrega especificada en su enunciado. Esta fec
 
 * **[Tarea 2](tarea2/README.md):** sábado 3 de noviembre, 23:59 hrs.
 
+* **[Tarea 3](tarea3/README.md):** viernes 30 de noviembre, 23:59 hrs.
+
 ## Indicaciones
 
 * Todo el código será entregado únicamente a través de un repositorio Git alojado en [Github](https://github.com). Nosotros les proveeremos repositorios gratuitos y privados para cada alumno.
